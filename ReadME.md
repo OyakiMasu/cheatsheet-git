@@ -74,3 +74,6 @@ Replace `language` with the programming language for syntax highlighting (e.g., 
 | Row 1    | Data     | More Data|
 | Row 2    | Data     | More Data|
 ```
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
